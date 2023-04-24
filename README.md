@@ -1,2 +1,2 @@
 # Lab9
-Lab 9 for EECS 348
+This is the code used for lab 9
